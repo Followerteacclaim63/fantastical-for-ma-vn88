@@ -1,4 +1,4 @@
-#  
+#  instant Fantastical for macOS Integration | task automation + markdown support offers the most advanced Fantastical for macOS integration, with task automation and markdown
 
 
 
